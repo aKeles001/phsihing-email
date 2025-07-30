@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# 🎈 Phishing Email Detector
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit app to detect and reaise awareness on Phishing Email attacks!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
