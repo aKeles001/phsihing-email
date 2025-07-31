@@ -1,7 +1,6 @@
 import streamlit as st
 
-st.title("🔐 How to Identify and Spot Phishing Emails (2025 Updated)")
-st.markdown("**Last Updated: 23 July, 2025**")
+st.title("🔐 How to Identify and Spot Phishing Emails")
 
 st.write("""
 Phishing emails are one of the most common and misleading ways cybercriminals attempt to steal personal information, financial details, or credentials. These emails often appear legitimate and are crafted to trick recipients into taking harmful actions.
